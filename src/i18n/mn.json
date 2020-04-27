@@ -1,0 +1,1054 @@
+[
+  {
+    "language": "Mongolian",
+    "i18n": "mn",
+    "ns": "reaction-translations",
+    "translation": {
+      "reaction-translations": {
+        "changesNotSaved": "Өөрчлөлтийг хадгалахад алдаа гарлаа",
+        "changesSaved": "Амжилттай хадгаллаа",
+        "languages": {
+          "select": "Хэл сонгох"
+        },
+        "currencies": {
+          "select": "Мөнгөн тэмдэгт сонгох"
+        },
+        "admin": {
+          "landing": {
+            "createFirstShop": "Өөрийн дэлгүүрийг үүсгэх"
+          },
+          "shortcut": {
+            "addProductLabel": "Бүтээгдэхүүн нэмэх",
+            "accountsLabel": "Хэрэглэгчид",
+            "dashboardLabel": "Dashboard"
+          },
+          "dashboard": {
+            "i18NLabel": "i18n",
+            "i18NTitle": "i18n",
+            "i18NDescription": "Internationalization utilities",
+            "routingLabel": "Routing",
+            "routingTitle": "Routing",
+            "routingDescription": "Routing utilities",
+            "filtrationLabel": "Filtration",
+            "filtrationDescription": "Products filtration",
+            "coreTitle": "Dashboard",
+            "packageGroupActionsLabel": "Actions",
+            "packageGroupSettingsLabel": "Settings"
+          },
+          "groups": {
+            "addUserError": "Энэ хэрэглэгчийн бүлгийг өөрчлөх боломжгүй",
+            "removeUserError": "Энэ хэрэглэгч бүлгээс устгах боломжгүй",
+            "appearance": "Харагдац",
+            "email": "Имэйл",
+            "connect": "Холбогдох",
+            "description": "Тайлбар",
+            "core": "Цөм",
+            "remove": "Бүлгээс хасах",
+            "dashboard": "Dashboard",
+            "misc": "Бусад",
+            "paymentMethod": "Төлбөрийн хэрэгсэл",
+            "utilities": "Хэрэгсэл"
+          },
+          "settings": {
+            "accountSettingsLabel": "Login services",
+            "accountSettingsTitle": "Login services",
+            "accountSettingsDescription": "Social хаягаар нэвтрэх",
+            "saveSuccess": "Тохиргоо шинэчлэгдлээ",
+            "saveProcessing": "Хадгалаж байна...",
+            "saveFailed": "Алдаа гарлаа.",
+            "addShopMemberLabel": "Ажилтан нэмэх",
+            "permissionsSettingsLabel": "Эрх",
+            "localizationAndI18NLabel": "Орчуулга",
+            "settingsLabel": "Тохиргоо",
+            "shopSettingsLabel": "Дэлгүүр",
+            "import": "Импорт",
+            "shop": {
+              "header": "Дэлгүүр",
+              "allowGuestCheckout": "Нэвтрэхгүйгээр худалдан авах боломжтой",
+              "descriptionLabel": "Мэдээлэл",
+              "descriptionPlaceholder": "Дэлгүүрийн мэдээллийг оруулна уу",
+              "emailLabel": "Имэйл",
+              "emailPlaceholder": "Дэлгүүрийн холбоо барих имэйл хаяг",
+              "keywordsLabel": "Түлхүүр үг",
+              "keywordsPlaceholder": "Дэлгүүрийг олоход туслах түлхүүр үгнүүд",
+              "label": "Дэлгүүр",
+              "nameLabel": "Нэр",
+              "namePlaceholder": "Дэлгүүрийн нэр",
+              "slugLabel": "Slug",
+              "slugPlaceholder": "Slug оруулна уу"
+            },
+            "address": {
+              "addNewAddress": "Шинэ хаяг оруулах",
+              "address1Label": "Гудамж",
+              "address2Label": "Байр, шуудангийн хайрцаг (заавал биш)",
+              "cityLabel": "Хот",
+              "companyLabel": "Байгууллагын нэр",
+              "companyPlaceholder": "Байгууллагын нэр оруулна уу",
+              "countryLabel": "Улс",
+              "editAddress": "Дэлгүүрийн хаяг засах",
+              "edit": "Засах",
+              "fullNameLabel": "Овог нэр",
+              "fullNamePlaceholder": "Холбоо барин хүний овог нэр",
+              "isCommercialLabel": "Байгууллагын хаяг эсэх",
+              "initialViewText": "Дэлгүүрийн хаяг одоогоор оруулаагүй байна.",
+              "label": "Хаяг",
+              "phoneLabel": "Утас",
+              "postalLabel": "Шуудан/Зип код",
+              "regionLabel": "Дүүрэг, хороо"
+            },
+            "payment": {
+              "header": "Төлбөрийн тохиргоо"
+            },
+            "taxes": {
+              "header": "Татварын тохиргоо"
+            },
+            "addressValidation": {
+              "header": "Хаяг баталгаажуулах сервис"
+            },
+            "system": {
+              "header": "Системийн мэдээлэл"
+            },
+            "email": {
+              "header": "Имэйл"
+            },
+            "localization": {
+              "header": "Localization"
+            },
+            "emailTemplates": {
+              "header": "Имэйл загварууд"
+            },
+            "options": {
+              "label": "Сонголтууд"
+            },
+            "openexchangerates": {
+              "refreshPeriod": "Шинэчлэх"
+            },
+            "productSettingsLabel": "Бүтээгдэхүүний тохиргоо",
+            "productDetailsLabel": "Бүтээгдэхүүний мэдээлэл",
+            "settings": "Тохиргоо",
+            "templateSettingsLabel": "Имэйл загварууд"
+          },
+          "userAccountDropdown": {
+            "profileLabel": "Мэдээлэл"
+          },
+          "alerts": {
+            "shopGeneralSettingsSaved": "Мэдээлэл амжилттай шинэчлэгдлээ.",
+            "shopGeneralSettingsFailed": "Мэдээлэл шинэчлэх явцад алдаа гарлаа.",
+            "shopAddressSettingsSaved": "Дэлгүүрийн хаяг амжилттай шинэчлэгдлээ.",
+            "shopAddressSettingsFailed": "Дэлгүүрийн хаяг шинэчлэх явцад алдаа гарлаа.",
+            "shopExternalServicesSettingsSaved": "Амжиллттай шинэчлэгдлээ.",
+            "shopExternalServicesSettingsFailed": "Мэдээлэл шинэчлэх явцад алдаа гарлаа.",
+            "shopOptionsSettingsSaved": "Амжиллттай шинэчлэгдлээ.",
+            "shopOptionsSettingsFailed": "Мэдээлэл шинэчлэх явцад алдаа гарлаа."
+          },
+          "createProduct": "Бүтээгдэхүүн үүсгэх",
+          "showingFilteredProducts": "{{count}} бүтээгдэхүүн олдлоо.",
+          "showingFilteredProducts_plural": "{{count}} бүтээгдэхүүнийг харуулж байна",
+          "missingFilteredProducts": "{{count}} product ID could not be found in the catalog.",
+          "missingFilteredProducts_plural": "{{count}} product IDs could not be found in the catalog.",
+          "noProductsFoundText": "Ангилалд хамаарах бүтээгдэхүүн алга байна.",
+          "productAdmin": {
+            "details": "Мэдээлэл",
+            "metadata": "Нэмэлт мэдээлэл",
+            "metafields": "Нэмэлт талбарууд",
+            "mediaGallery": "Зураг/Бичлэг"
+          },
+          "importCard": {
+            "title": "Шүүх",
+            "filterProducts": "Шүүх",
+            "import": "Файл сонгох",
+            "importHelpText": "Бүтээгдэхүүний ID-г эхний багананд агуулсан .csv файл оруулна уу"
+          },
+          "addRemoveTags": {
+            "inputPlaceholder": "Таг сонгох",
+            "invalidSelection": "Таг сонгоно уу",
+            "addConfirmation": "Added tag {{tags}} to {{count}} product",
+            "addConfirmation_plural": "Added tags {{tags}} to {{count}} products",
+            "removeConfirmation": "Removed tags {{tags}} from {{count}} product",
+            "removeConfirmation_plural": "Removed tags {{tags}} from {{count}} products",
+            "errorMessage": "Алдаа гарлаа"
+          },
+          "productTable": {
+            "header": {
+              "order": "Захиалга",
+              "price": "Үнэ",
+              "qty": "Тоо хэмжээ",
+              "product": "Бүтээгдэхүүн",
+              "id": "ID",
+              "title": "Гарчиг",
+              "visible": "Visible",
+              "published": "Нийтлэгдсэн"
+            },
+            "filters": {
+              "placeholder": "Шүүх"
+            },
+            "bulkActions": {
+              "actions": "Үйлдлүүд",
+              "addRemoveTags": "Таг нэмэх/хасах",
+              "allProducts": "Бүх бүтээгдэхүүн",
+              "archive": "Архив",
+              "archiveMessage": "Бүтээгдэхүүнийг архив хийснээр админ болон хэрэглэгчид харагдахгүй болно.",
+              "archiveMessage_plural": "Бүтээгдэхүүнүүдийг архив хийснээр админ болон хэрэглэгчид харагдахгүй болно.",
+              "archiveSuccess": "{{count}} бүтээгдэхүүнийг архивлалаа",
+              "archiveSuccess_plural": "{{count}} бүтээгдэхүүнүүлийг архивлалаа",
+              "archiveTitle_plural": "{{count}} бүтээгдэхүүнүүдийг архивлах уу?",
+              "archiveTitle": "{{count}} бүтээгдэхүүнийг архивлах уу?",
+              "duplicate": "Хувилах",
+              "duplicateMessage": "Сонгодсон бүтээгдэхүүний мэдээлэл болон сонголтуудыг хувилна",
+              "duplicateMessage_plural": "Сонгодсон бүтээгдэхүүнүүдийн мэдээлэл болон сонголтуудыг хувилна",
+              "duplicateSuccess": "{{count}} бүтээгдэхүүнийг хувиллаа",
+              "duplicateSuccess_plural": "{{count}} бүтээгдэхүүнүүдийг хувиллаа",
+              "duplicateTitle_plural": "{{count}} бүтээгдэхүүнүүдийг хувилах уу?",
+              "duplicateTitle": "{{count}} бүтээгдэхүүнийг хувилах уу?",
+              "error": "Алдаа гарлаа",
+              "filterByFile": "Файлаар шүүх",
+              "filteredProducts": "Шүүлтийн үр дүн",
+              "makeHidden": "Нуух",
+              "makeHiddenMessage": "Сонгогдсон бүтээгдэхүүнийг нуух. Өөрчлөлтүүдийг нийтлэх шаардлагатай.",
+              "makeHiddenMessage_plural": "Сонгогдсон бүтээгдэхүүнүүдийг нуух. Өөрчлөлтүүдийг нийтлэх шаардлагатай.",
+              "makeHiddenSuccess": "{{count}} бүтээгдэхүүнийг нуулаа",
+              "makeHiddenSuccess_plural": "{{count}} бүтээгдэхүүнүүдийг нуулаа",
+              "makeHiddenTitle_plural": "{{count}} бүтээгдэхүүнүүдийг нуух уу?",
+              "makeHiddenTitle": "{{count}} бүтээгдэхүүнийг нуух уу?",
+              "makeVisible": "Харуулах",
+              "makeVisibleMessage": "{{count}} бүтээгдэхүүнийг харуулах. Өөрчлөлтүүдийг нийтлэх шаардлагатай.",
+              "makeVisibleMessage_plural": "{{count}} бүтээгдэхүүнүүдийг харуулах. Өөрчлөлтүүдийг нийтлэх шаардлагатай.",
+              "makeVisibleSuccess": "{{count}} бүтээгдэхүүнийг харууллаа",
+              "makeVisibleSuccess_plural": "{{count}} бүтээгдэхүүнүүдийг харууллаа",
+              "makeVisibleTitle_plural": "{{count}} бүтээгдэхүүнүүдийг харуулах уу?",
+              "makeVisibleTitle": "{{count}} бүтээгдэхүүнийг харуулах уу?",
+              "publish": "Нийтлэх",
+              "publishMessage": "Өөрчлөлтүүдийг нийтлэх үү?",
+              "publishMessage_plural": "Сонгогдсон бүтээгдэхүүнийг нийтлэх үү?",
+              "publishTitle_plural": "{{count}} бүтээгдэхүүнүүдийг нийтлэх үү?",
+              "publishTitle": "{{count}} бүтээгдэхүүнийг нийтлэх үү?",
+              "published": "{{count}} бүтээгдэхүүнийг амжилттай нийтлэлээ.",
+              "published_plural": "{{count}} бүтээгдэхүүнүүдийг амжилттай нийтлэлээ.",
+              "restore": "Сэргээх",
+              "restoreTitle_plural": "{{count}} бүтээгдэхүүнүүдийг сэргэх үү?",
+              "restoreTitle": "{{count}} бүтээгдэхүүнийг сэргэх үү?",
+              "selectedCount": "{{count}} сонгогдсон",
+              "totalCount_plural": "{{count}} бүтээгдэхүүн",
+              "totalCount": "{{count}} бүтээгдэхүүн"
+            }
+          },
+          "products": "Бүтээгдэхүүн",
+          "helpText": {
+            "attributeLabel": "The attribute label describes the category of variant, for example, \"Color\" or \"Size\". In most cases you should enter the same value here for all variants at the same level.",
+            "compareAtPrice": "Original price or MSRP",
+            "optionInventoryAvailableToSell": "Боломжт үлдэгдэл",
+            "optionInventoryInStock": "Агуулахын үлдэгдэл",
+            "optionTitle": "The short title is the value for the attribute label. For example, a variant with attribute label \"Color\" might have short title \"Red\". This is usually shown in a select list or button set on a product detail page in your storefront.",
+            "price": "Худалдах үнэ",
+            "title": "The full title is usually shown on cart, checkout, and order summaries and on invoices. It should fully describe the configured variant. For example, if this is an option with short title \"Large\", its parent variant has short title \"Red\", and the product title is \"Fancy T-Shirt\", then a good title might be \"Fancy T-Shirt - Red - Large\".",
+            "variantBackorderToggle": "Backorder allowance is now controlled by options",
+            "variantInventoryAvailableToSell": "Variant inventory available to sell quantity is calculated by options inventory",
+            "variantInventoryInStock": "Variants inventory in stock quantity is calculated by options inventory"
+          },
+          "productVariant": {
+            "attributeLabelLabel": "Сонголтууд",
+            "attributeLabelPlaceholder": "Жишээ нь: Өнгө, Размер",
+            "inventoryAvailableToSell": "Боломжт үлдэгдэл",
+            "inventoryInStock": "Агуулахын үлдэгдэл",
+            "optionTitlePlaceholder": "Жишээ нь: Улаан, M размер",
+            "titlePlaceholder": "Жишээ нь: Фудволк - Улаан - M размер"
+          },
+          "tooltip": {
+            "validationError": "Алдаа гарлаа (Validation error)"
+          }
+        },
+        "accounts": {
+          "addMember": "Ажилтан нэмэх",
+          "shopMembers": "Ажилтнууд",
+          "guests": "Гишүүд"
+        },
+        "app": {
+          "add": "Нэмэх",
+          "editMode": "Засах",
+          "createContent": "Контент нэмэх",
+          "auto": "Auto",
+          "save": "Хадгалах",
+          "saveAndContinue": "Хадгалах & Үргэлжлүүлэх",
+          "saveChanges": "Хадгалах",
+          "selectOne": "(Сонгох)",
+          "cancel": "Цуцлах",
+          "success": "Амжилттай",
+          "error": "Алдаа",
+          "submit": "Submit",
+          "delete": "Устгах",
+          "deleted": "Устгагдсан",
+          "archive": "Архив",
+          "archived": "Архивлагдсан",
+          "create": "Үүсгэх",
+          "close": "Хаах",
+          "settings": "Тохиргоо",
+          "loading": "Уншиж байна",
+          "toggle": "Toggle",
+          "toggleEditMode": "Toggle edit mode",
+          "warning": "Oops!",
+          "unauthorizedMessage": "You don't have permission to view this content.",
+          "updateSettings": "Update settings",
+          "monthOptions": "Choose month",
+          "yearOptions": "Choose year",
+          "shopSettings": "Shop settings",
+          "dashboard": "Dashboard",
+          "print": "Print",
+          "notFound": "This page was not found.",
+          "pageNotFound": "This page was not found.",
+          "notFoundTitle": "Oops!",
+          "notFoundError": "Page not found.",
+          "productNotFound": "This product was not found.",
+          "loadMoreProducts": "Load more products",
+          "noProductsFound": "No products found.",
+          "private": "Private",
+          "public": "Public",
+          "shortcut": {
+            "addProductLabel": "Add product",
+            "accountsLabel": "Accounts"
+          },
+          "visible": "Visible",
+          "hidden": "Hidden"
+        },
+        "searchSettings": {
+          "productSearchSettings": {
+            "panelTitle": "Product search",
+            "includeTitle": "Include title",
+            "includeDescription": "Include description",
+            "includePageTitle": "Include page title",
+            "includeDetails": "Include details",
+            "includeVendor": "Include vendor"
+          },
+          "orderSearchSettings": {
+            "panelTitle": "Order search settings"
+          },
+          "accountSearchSettings": {
+            "panelTitle": "Account search settings"
+          },
+          "noSettings": "No settings currently available",
+          "settingsSaved": "Search settings saved",
+          "settingsfailed": "Search settings update failed"
+        },
+        "shopSettings": {
+          "localization": "Localization",
+          "options": "Options",
+          "paymentMethods": "Payment methods",
+          "pluginVersions": {
+            "title": "Plugin Versions"
+          },
+          "systemInfo": {
+            "apiVersionLabel": "API Version",
+            "installedPluginsLabel": "Installed Plugins",
+            "mongoVersionLabel": "MongoDB Version",
+            "title": "System Information"
+          },
+          "externalServices": "External services",
+          "shopBrandAssetsSaved": "Shop brand assets saved",
+          "shopBrandAssetsFailed": "Shop brand assets failed",
+          "shopLocalizationSettingsSaved": "Shop localization settings saved.",
+          "shopLocalizationSettingsFailed": "Shop localization settings update failed.",
+          "shopLogo": {
+            "description": "Upload logo files or provide URLs for remote image files to use as store logos. Remote URLs will override uploaded logos.",
+            "title": "Shop Logos",
+            "primaryShopLogoUrlTitle": "Primary logo URL",
+            "primaryShopLogoUrlDescription": "This is the URL for this shop's primary logo, which is used wherever you see a logo throughout the UI"
+          },
+          "shopPaymentMethodsSaved": "Shop Payment Methods settings saved.",
+          "shopPaymentMethodsFailed": "Shop Payment Methods settings update failed.",
+          "storefrontUrls": {
+            "description": "Use these fields to provide your storefronts URLs to various pages to use for links inside of emails.",
+            "storefrontHomeUrlTitle": "Homepage URL",
+            "storefrontHomeUrlDescription": "URL of your shops homepage",
+            "storefrontOrderUrlTitle": "Single Order page URL",
+            "storefrontOrderUrlDescription": "URL of your shops single order page, with `:orderId` and `:token` variables provided",
+            "storefrontOrderUrlHelpText": "In order for email links to work, you must provide an `:orderId` and `:token` in this field. These act as placeholders that are replaced with the correct data in your email template when an order email is generated. For example: http://shop.example.com/my-orders/:orderId?token=:token",
+            "storefrontOrdersUrlTitle": "Orders page URL",
+            "storefrontOrdersUrlDescription": "URL of your shops orders page",
+            "storefrontAccountProfileUrlTitle": "Account Profile page URL",
+            "storefrontAccountProfileUrlDescription": "URL of your shops account profile homepage",
+            "title": "Storefront Urls",
+            "update": "Update storefront Urls"
+          }
+        },
+        "notifications": {
+          "body": {
+            "noNotifications": "No notifications yet",
+            "markAllAsRead": "Mark all as read",
+            "recent": "Recent",
+            "viewAll": "View all"
+          },
+          "messages": {
+            "orderCanceled": "Your order was canceled.",
+            "newOrder": "Your order was accepted.",
+            "forAdmin": "You have a new order.",
+            "orderDelivered": "Your order has been delivered.",
+            "orderProcessing": "Your order is being processed.",
+            "orderShipped": "Your order has been shipped."
+          }
+        },
+        "header": {
+          "tagsAdd": "Add tag",
+          "search": "Search products..."
+        },
+        "productDetail": {
+          "productManagement": "Product management",
+          "whenYouAreDone": "when you're done editing.",
+          "tags": "Tags",
+          "tagsAdd": "Add tag",
+          "tagExists": "Tag already exists, or is empty.",
+          "tagInUse": "Tag is in use and cannot be deleted.",
+          "dropFiles": "Drop files to upload",
+          "addInventory": "Add inventory",
+          "barcode": "Barcode",
+          "confirmDeleteBarcode": "Are you sure you want to delete barcode",
+          "details": "Details",
+          "detailsName": "Detail name",
+          "detailsInfo": "Detail information",
+          "generate": "Generate",
+          "generateBarcodes": "Generate barcodes",
+          "hideBarcodes": "Hide barcodes",
+          "options": "Options",
+          "addToCart": "Add to cart",
+          "chooseOptions": "Please choose options before adding to cart",
+          "outOfStock": "Sorry, this item is out of stock!",
+          "productArchiveError": "There was an error while sending {{product}} to the archives.",
+          "archiveErrorTheProduct": "the product",
+          "publishFirst": "Publish product before adding to cart.",
+          "quantityAbbreviation": "QTY",
+          "selectOption": "Select an option before adding to cart",
+          "addedToCart": "added",
+          "showBarcodes": "Show barcodes",
+          "soldOut": "Sold out!",
+          "inStock": "In Stock",
+          "backOrder": "Backorder",
+          "limitedSupply": "Limited supply",
+          "publishProductVisible": "{{product}} is now visible",
+          "publishProductHidden": "{{product}} is now hidden",
+          "clonedAlert": "Cloned {{product}}",
+          "clonedAlert_plural": "Cloned {{product}}",
+          "archivedAlert": "Archived {{product}}",
+          "archivedAlert_plural": "Archived {{product}}",
+          "theProduct": "the product",
+          "theSelectedProducts": "the selected products",
+          "startTracking": "Start tracking",
+          "addBarcode": "Add barcode",
+          "quantity": "Quantity",
+          "quantityGreaterThanZero": "Error: Quantity must be greater than zero",
+          "notFoundTitle": "Oops!",
+          "notFoundError": "This is not the product you were looking for."
+        },
+        "tags": {
+          "tagName": "Tag name",
+          "addTag": "Add tag",
+          "updateTag": "Update tag",
+          "addGroupTag": "Add group tag",
+          "addSubTag": "Add sub tag",
+          "removeTag": "Remove tag",
+          "createTag": "Create tag"
+        },
+        "productDetailEdit": {
+          "editOption": "Edit option",
+          "productSettings": "Product settings",
+          "product": "Product",
+          "size": "Size",
+          "title": "Title",
+          "untitledProduct": "Untitled product",
+          "parmalink": "Permalink",
+          "pageTitle": "Subtitle",
+          "vendor": "Vendor",
+          "description": "Description",
+          "originCountry": "Origin country",
+          "facebookMsg": "Facebook message",
+          "twitterMsg": "Twitter message",
+          "pinterestMsg": "Pinterest message",
+          "googleplusMsg": "Google+ message",
+          "editVariant": "Edit variant",
+          "variantOptions": "Variant options",
+          "variantDetails": "Variant details",
+          "duplicateVariant": "Duplicate",
+          "addVariantOption": "Add option",
+          "addVariantFail": "Unable to create variant. {{err}}",
+          "addVariant": "Variant added",
+          "archiveProductsFail": "Unable to archive product(s). {{err}}",
+          "archiveProductsSuccess": "Product(s) archived successfully.",
+          "archiveProductVariantsFail": "Unable to archive variant(s). {{err}}",
+          "archiveProductVariantsSuccess": "Variant(s) archived successfully.",
+          "cloneProductSuccess": "Product(s) cloned successfully.",
+          "cloneProductFail": "Unable to clone product. {{err}}",
+          "cloneVariantFail": "Unable to clone variant for {{title}}.",
+          "removeVariant": "Remove",
+          "removeVariantConfirm": "Are you sure you want to delete {{title}}",
+          "restoreVariantConfirm": "Are you sure you want to restore {{title}} from the archive?",
+          "restoreVariantFail": "Unable to restore {{title}}.",
+          "restoreVariantSuccess": "{{title}} successfully restored.",
+          "updateProductFieldSuccess": "Product(s) updated successfully.",
+          "updateProductFieldFail": "Unable to update product. {{err}}",
+          "archiveVariantConfirm": "Are you sure you want to archive {{title}}",
+          "addProductTagSuccess": "Tag(s) added to product.",
+          "addProductTagFail": "Unable to add tag(s) to product. {{err}}",
+          "removeProductTagSuccess": "Tag(s) removed from product.",
+          "removeProductTagFail": "Unable to remove tag(s) from product. {{err}}",
+          "thisVariant": "this variant",
+          "thisOption": "this option",
+          "duplicateProduct": "Duplicate product",
+          "pinProduct": "Pin product",
+          "toggleSize": "Toggle Size",
+          "archiveProduct": "Archive product",
+          "restoreProduct": "Restore product from archive",
+          "archiveThisProduct": "Archive this product?",
+          "archiveSelectedProducts": "Archive selected products?",
+          "publish": "Publish",
+          "published": "Published",
+          "moreOptions": "More Options",
+          "details": "Details",
+          "noSelectedProducts": "No selected products. Use the ",
+          "orShiftCtrlCmd": " or shift|ctrl|cmd + click on products to select multiple. With shift you can select a contiguous range of products.",
+          "makeVisible": "Make visible",
+          "hideProduct": "Hide product",
+          "productIsVisible": "Product is visible",
+          "productIsNotVisible": "Product is not visible",
+          "template": "Template",
+          "templateSelectPlaceholder": "Select a template",
+          "metafieldKey": "Key",
+          "metafieldValue": "Value"
+        },
+        "productVariant": {
+          "addVariantOptions": "Add options to enable 'Add to Cart' button",
+          "title": "Title",
+          "price": "Price",
+          "prices": "Prices",
+          "optionTitle": "Short title",
+          "barcode": "Barcode",
+          "compareAtPrice": "Compare at price",
+          "fulfillmentService": "Fulfillment service",
+          "weight": "Weight",
+          "length": "Length",
+          "width": "Width",
+          "height": "Height",
+          "taxable": "Taxable",
+          "taxCode": "Tax code",
+          "taxDescription": "Tax description",
+          "originCountry": "Origin country",
+          "selectTaxCode": "Select tax code",
+          "updateVariantSuccess": "Product variant updated successfully",
+          "updateVariantFail": "Unable to update product variant",
+          "updateVariantPricesSuccess": "Variant Prices updated successfully",
+          "updateVariantPricesFail": "Unable to update variant prices",
+          "pricePublishWarning": "Changes to prices are published on save"
+        },
+        "variantList": {
+          "moreOptions": "There are more options available for this selection.",
+          "createVariant": "Create variant"
+        },
+        "gridPackage": {
+          "enable": "Enable",
+          "errorDisabling": "Error disabling package: ",
+          "errorEnabling": "Error enabling package: ",
+          "details": "Details",
+          "disable": "Disable",
+          "disableConfirm": "Are you sure you want to disable {{app}}?",
+          "pkgEnabled": "{{app}} is now enabled.",
+          "pkgDisabled": "{{app}} is now disabled."
+        },
+        "gridSettingsPanel": {
+          "title": "Grid settings",
+          "selected": "Selected"
+        },
+        "cartDrawer": {
+          "empty": "We're sad. Your cart is empty.",
+          "keepShopping": "Keep on shopping",
+          "checkout": "Checkout now",
+          "new": "New",
+          "coreOrderWorkflow/created": "Created",
+          "coreOrderWorkflow/processing": "Processing",
+          "coreOrderWorkflow/completed": "Completed",
+          "coreOrderWorkflow/canceled": "Canceled",
+          "coreOrderWorkflow/picked": "Picked",
+          "coreOrderWorkflow/packed": "Packed",
+          "coreOrderWorkflow/labeled": "Labeled",
+          "coreOrderWorkflow/shipped": "Shipped"
+        },
+        "cartSubTotals": {
+          "discount": "Discount",
+          "head": "Your cart",
+          "items": "Items in cart",
+          "orderItems": "Items in order",
+          "subtotal": "Sub total",
+          "shipping": "Shipping",
+          "surcharge": "Surcharge",
+          "tax": "Tax",
+          "total": "Total"
+        },
+        "cartDrawerItems": {
+          "left": "left",
+          "limitedSupply": "Limited supply"
+        },
+        "order": {
+          "created": "Created",
+          "reference": "Reference",
+          "cancelInvoice": "Cancel",
+          "invoice": "Invoice",
+          "ordersNotFound": "No orders found",
+          "approveInvoice": "Approve",
+          "cancelOrderLabel": "Cancel order",
+          "makeAdjustments": "Make adjustments",
+          "capturePayment": "Capture payment",
+          "paymentCaptured": "Payment captured",
+          "capturedTotal": "Captured total",
+          "canceledLabel": "Canceled",
+          "refundAmount": "Refund amount",
+          "cancelOrder": "Do you want to cancel this order?",
+          "applyRefundToThisOrder": "Apply refund of {{currencySymbol}}{{refund}} to this order?",
+          "applyRefundDuringCancelOrder": "This will refund the order total of {{currencySymbol}}{{invoiceTotal}}",
+          "cancelOrderThenRestock": "Yes, and restock",
+          "cancelOrderNoRestock": "Yes, but no restocking",
+          "applyRefund": "Apply refund",
+          "refunding": "Refunding",
+          "applyDiscount": "Apply discount",
+          "adjustedTotal": "Adjusted total",
+          "invalidDiscount": "Discount cannot be greater than original total price",
+          "fullDiscountWarning": "Applying a 100% discount will void / cancel this order with your payment provider",
+          "invalidRefund": "Refund(s) total cannot be greater than adjusted total",
+          "processor": "Processor",
+          "placed": "Placed",
+          "on": "on",
+          "status": "Status",
+          "completed": "Completed",
+          "processing": "Processing",
+          "destination": "Destination",
+          "shipment": "Shipment",
+          "payment": "Payment",
+          "itemsFrom": "item(s) from",
+          "filter": {
+            "processing": "Processing",
+            "status": "Status",
+            "dateRange": "Date range",
+            "shippingStatus": "Shipping status",
+            "new": "New",
+            "captured": "Captured",
+            "shipped": "Shipped",
+            "completed": "Completed",
+            "canceled": "Canceled",
+            "refunded": "Refunded"
+          },
+          "capture": "Capture",
+          "capturing": "Capturing",
+          "bulkActions": "Bulk Actions",
+          "selected": "Selected",
+          "picked": "Picked",
+          "packed": "Packed",
+          "labeled": "Labeled",
+          "shipped": "Shipped",
+          "printInvoiceAndPickSheet": "Print Invoice and Pick Sheet",
+          "generateLabel": "Generate Label",
+          "approveBulkOrderAction": "Yes, Set All Select All Orders",
+          "approveBulkOrderActionRegression": "Yes, Regress All Selected Orders",
+          "cancelBulkOrderAction": "No, Cancel",
+          "orderAlreadyInState": "{{orderText}} already been {{status}}",
+          "orderSetToState": "{{orderNumber}} {{orderText}} set to {{status}}",
+          "skippedBulkOrdersAlert": "You've requested that {{selectedOrders}} {{orderText}} be set to the '{{status}}' status, but {{numberOfSkippedOrders}} of these orders {{skippedOrdersText}} not in the '{{skippedState}}' state and would skip all steps leading up to the '{{status}}' state. Are you sure you want to do this?",
+          "bulkOrdersRegressionAlert": "You're about to regress {{ordersToRegress}} {{orderText}} back to the '{{status}}' state. Are you sure you want to continue with this operation?",
+          "paymentCaptureSuccess": "Payments successfully captured",
+          "showMore": "Show more"
+        },
+        "orderShipping": {
+          "shipTo": "Ship to",
+          "notShipped": "Not yet shipped",
+          "noTracking": "No tracking",
+          "tracking": "Tracking",
+          "printLabels": "Labels",
+          "printShippingLabel": "Print shipping",
+          "printCustomsLabel": "Print customs",
+          "generateTracking": "Generate label and tracking",
+          "labelError": "Error creating shipping label {{err}}",
+          "carrier": "Carrier",
+          "addTracking": "Add tracking",
+          "itemsHaveBeenShipped": "All items have been shipped",
+          "shipmentEmpty": "This shipment has no items",
+          "shipmentPacked": "All items packed",
+          "shipped": "Shipped",
+          "delivered": "Delivered",
+          "shippingNotifyCustomer": "Notify the customer that their items will be shipping soon.",
+          "resendNotification": "Resend shipment notification",
+          "noShippingInfo": "No shipping information available"
+        },
+        "orderWorkflow": {
+          "orderDetails": "Order details",
+          "invoice": "Invoice",
+          "lineItems": "Line items",
+          "shipmentTracking": "Shipment"
+        },
+        "cartCheckout": {
+          "surprise": "Woah!",
+          "emptyCheckoutCart": "looks like your cart is empty!"
+        },
+        "cartCompleted": {
+          "thankYou": "Thank you!",
+          "itemsFrom": "item(s) from",
+          "yourOrderIsNow": "Your order is now",
+          "summaryMessage": "Thank you for your order.",
+          "submitted": "submitted",
+          "processing": "processing",
+          "completed": "completed",
+          "registerGuest": "Hello! Add an email and receive order updates",
+          "trackYourDelivery": "Order updates will be sent to",
+          "noOrdersFound": "No orders found.",
+          "adminMessage": "You are viewing orders as an administrator",
+          "orderSummary": "Order Summary",
+          "discountTotal": "Discount Total",
+          "orderTotal": "Order Total",
+          "fulfilledBy": "Fulfilled by",
+          "orderItems": "Items in order",
+          "orderSubtotal": "Subtotal",
+          "orderShipping": "Shipping",
+          "orderTax": "Tax"
+        },
+        "checkoutLogin": {
+          "welcome": "Welcome, it's so good to see you.",
+          "loginCompleted": "Account completed",
+          "createOrLogin": "Create an account, or sign in",
+          "guestOrLogin": "Sign in, or checkout as a guest",
+          "continueAsGuest": "Continue as guest",
+          "guestMessage": "You can checkout without creating an account. You'll have a chance to create an account later.",
+          "addEmail": "Add email",
+          "invalidEmail": "Email is not valid"
+        },
+        "addressBookGrid": {
+          "addAddress": "Add address",
+          "chooseAddress": "Choose shipping & billing address",
+          "createDefault": "Create your default address",
+          "edit": "Edit",
+          "removeAddress": "Remove address",
+          "selectShippingAddress": "Select a shipping address",
+          "selectBillingAddress": "Select a billing address",
+          "cantRemoveThisAddress": "Can't remove this address: {{err}}"
+        },
+        "addressBookAdd": {
+          "addAddress": "Add a new address entry",
+          "createAddress": "Create your default address",
+          "failedToAddAddress": "Failed to add address: {{err}}",
+          "validatedAddress": "Made changes to your address based upon validation. Please ensure this is correct",
+          "valildationBypassed": "You have requested to bypass address validation"
+        },
+        "addressBookReview": {
+          "enteredAddress": "Entered Address",
+          "suggestedAddress": "Suggested Address",
+          "useSelectedAddress": "Use selected address",
+          "editAddress": "Edit entered address",
+          "warning": "The address you entered may be incorrect or incomplete. Please review our suggestions below, and choose which version you'd like to use. Errors are shown in red."
+        },
+        "addressBookEdit": {
+          "editAddress": "Editing this address entry",
+          "addressValidation": "Address validation",
+          "reviewAddress": "For best compliance, please validate your address",
+          "somethingWentWrong": "Something went wrong: {{err}}",
+          "enteredAddress": "Entered address",
+          "validatedAddress": "Validate address"
+        },
+        "corePackageConfig": {
+          "settings": {
+            "public": {
+              "allowGuestCheckout": "Allow guest checkout"
+            },
+            "openexchangerates": {
+              "appId": "Open Exchange Rates App Id",
+              "refreshPeriod": "Open Exchange Rates refresh period",
+              "refreshPeriodPlaceholder": "i.e. every 1 hour"
+            },
+            "google": {
+              "clientId": "Google Client ID",
+              "apiKey": "Google API Key"
+            }
+          }
+        },
+        "shop": {
+          "defaultPaymentMethod": "Default payment method",
+          "name": "Name",
+          "namePlaceholder": "Shop name",
+          "description": "Description",
+          "descriptionPlaceholder": "Describe your shop for SEO",
+          "descriptionTooltip": "Meta description for SEO",
+          "email": "Email",
+          "emailPlaceholder": "Primary contact email",
+          "keywords": "Keywords",
+          "keywordsPlaceholder": "Meta keywords for SEO",
+          "language": "Base language",
+          "addressBook": {
+            "company": "Company",
+            "companyPlaceholder": "This business name",
+            "country": "Country",
+            "fullName": "Full name",
+            "fullNamePlaceholder": "Your organization name",
+            "address1": "Address",
+            "address1Placeholder": "Your organization address",
+            "address1Tooltip": "This address will be visible to visitors",
+            "address2": "Address",
+            "address2Placeholder": "Additional address",
+            "postal": "Postal",
+            "city": "City",
+            "region": "Region",
+            "phone": "Phone",
+            "isShippingDefault": "Make this your default shipping address?",
+            "isBillingDefault": "Make this your default billing address?",
+            "isCommercial": "This is a commercial address."
+          }
+        },
+        "address": {
+          "country": "Country",
+          "fullName": "Full name",
+          "address1": "Address",
+          "address2": "Address",
+          "postal": "Postal",
+          "city": "City",
+          "region": "Region",
+          "phone": "Phone",
+          "isShippingDefault": "Make this your default shipping address?",
+          "isBillingDefault": "Make this your default billing address?",
+          "isCommercial": "This is a commercial address."
+        },
+        "i18nSettings": {
+          "enabledLanguages": "Languages"
+        },
+        "checkoutProgressBar": {
+          "login": "Account",
+          "shippingBilling": "Address details",
+          "shippingOptions": "Shipping options",
+          "reviewPayment": "Review",
+          "complete": "Complete"
+        },
+        "checkoutReview": {
+          "review": "Review"
+        },
+        "uom": {
+          "OZ": "Ounces",
+          "LB": "Pounds",
+          "GR": "Grams",
+          "KG": "Kilograms"
+        },
+        "consoleIcon": {
+          "iconTitle": "View console",
+          "text": "Console"
+        },
+        "createProductIcon": {
+          "iconTitle": "Create product",
+          "text": "Create"
+        },
+        "social": {
+          "socialTitle": "Social",
+          "facebook": "Facebook",
+          "google": "Google",
+          "github": "GitHub",
+          "instagram": "Instagram",
+          "meetup": "Meetup",
+          "ok": "Ok",
+          "twitter": "Twitter",
+          "vk": "VK",
+          "weibo": "Weibo"
+        },
+        "search": {
+          "clearSearch": "Clear",
+          "searchInputLabel": "Search",
+          "suggestedTags": "Suggested tags",
+          "searchTypeProducts": "Products",
+          "searchTypeAccounts": "Accounts",
+          "searchTypeOrders": "Orders",
+          "accountSearchResults": {
+            "accountId": "Account ID",
+            "shopId": "Shop ID",
+            "firstName": "First name",
+            "lastName": "Last name",
+            "phone": "Phone",
+            "emails": "Email"
+          }
+        },
+        "accountsUI": {
+          "promoteExistingAccountConfirm": "Do you want to promote their existing account?",
+          "sendNewInviteConfirm": "Do you want to send a new invitation?",
+          "yes": "Yes",
+          "usersOrders": "User's orders",
+          "oops": "Oops!",
+          "nonExistentAccount": "The user you're looking for does not exist.",
+          "members": "Members",
+          "manage": "Manage",
+          "guest": "Guest",
+          "addMember": "Add a member",
+          "add": "add",
+          "and": "and",
+          "back": "back",
+          "changePassword": "Change password",
+          "choosePassword": "Choose a password",
+          "clickAgree": "By clicking register, you agree to our",
+          "configure": "Configure",
+          "createAccount": "Create an account",
+          "currentPassword": "Current password",
+          "dontHaveAnAccount": "Don't have an account?",
+          "email": "Email",
+          "emailAddress": "Email address",
+          "emailResetLink": "Email reset link",
+          "forgotPassword": "Reset password",
+          "ifYouAlreadyHaveAnAccount": "If you already have an account",
+          "name": "Name",
+          "newPassword": "New password",
+          "newPasswordAgain": "New password (again)",
+          "optional": "Optional",
+          "or": "or",
+          "password": "Password",
+          "passwordAgain": "Password (again)",
+          "privacyPolicy": "Privacy policy",
+          "remove": "remove",
+          "resetYourPassword": "Reset your password",
+          "setPassword": "Set password",
+          "sign": "Sign",
+          "signIn": "Sign in",
+          "signInService": "{{service}} sign in",
+          "signin": "sign in",
+          "signInWith": "Sign in with",
+          "signUpWith": "Sign up with",
+          "signedIn": "You are signed in.",
+          "signOut": "Sign out",
+          "signUp": "Register",
+          "signUpButton": "Register",
+          "signupCode": "Registration code",
+          "signUpWithYourEmailAddress": "Register with your email address",
+          "terms": "Terms of use",
+          "updateYourPassword": "Set new password",
+          "updatePasswordAndContinue": "Update",
+          "updatedServiceConfiguration": "Updated service configuration for {{service}}",
+          "username": "Username",
+          "usernameOrEmail": "Username or email",
+          "with": "with",
+          "checkoutAsGuest": "Checkout without user account",
+          "role": "Role",
+          "yourOrders": "Your orders",
+          "addressBook": "Address book",
+          "info": {
+            "emailSent": "Email sent",
+            "emailUpdated": "Email updated",
+            "emailVerified": "Email verified",
+            "passwordChanged": "Password changed",
+            "passwordReset": "Password reset",
+            "passwordResetSend": "Email with password reset link has been sent.",
+            "passwordResetDone": "Password reset complete.",
+            "passwordResetDoneText": "Please return to app to continue.",
+            "invitationSent": "Invitation sent",
+            "sendInvitation": "Send invitation"
+          },
+          "error": {
+            "emailRequired": "Email is required.",
+            "passwordRequired": "Password is required.",
+            "passwordMustBeAtLeast6CharactersLong": "Password must be at least 6 characters long.",
+            "passwordMustContainRequirements": "Password must contain at least one number or symbol.",
+            "usernameMinLength": "Username must be at least 3 characters long",
+            "minChar": "6 character minimum password.",
+            "pwdsDontMatch": "Passwords don't match",
+            "pwOneDigit": "Password must have at least one digit.",
+            "pwOneLetter": "Password requires 1 letter.",
+            "signInRequired": "You must be signed in to do that.",
+            "signupCodeIncorrect": "Registration code is incorrect.",
+            "signupCodeRequired": "Registration code is required.",
+            "usernameIsEmail": "Username cannot be an email address.",
+            "usernameRequired": "Username is required.",
+            "emailAlreadyExists": "Email already exists.",
+            "emailDoesntMatchTheCriteria": "Email doesn't match the criteria.",
+            "errorSendingEmail": "Error sending email, possible configuration issue.",
+            "unableToSendInvitationEmail": "Unable to send invitation email.",
+            "userWithEmailAlreadyExists": "A user with this email address already exists",
+            "inviteAlreadyPending": "An invite is already pending for this user",
+            "failedToLogout": "Failed to logout.",
+            "invalidLoginToken": "Invalid login token",
+            "loginForbidden": "Login forbidden",
+            "serviceUnknown": "Service unknown",
+            "unrecognizedOptionsForLoginRequest": "Unrecognized options for login request",
+            "userValidationFailed": "User validation failed",
+            "usernameAlreadyExists": "Username already exists.",
+            "youAreNotLoggedIn": "You are not logged in.",
+            "youveBeenLoggedOutByTheServer": "You've been logged out by the server. Please log in again.",
+            "yourSessionHasExpired": "Your session has expired. Please log in again.",
+            "noMatchingLoginAttemptFound": "No matching login attempt found",
+            "passwordIsOld": "Password is old. Please reset your password.",
+            "incorrectPassword": "Incorrect password",
+            "invalidEmail": "Invalid email",
+            "addressMustBeAValidEMailAddress": "Invalid email",
+            "mustBeLoggedIn": "Must be logged in",
+            "needToSetUsernameOrEmail": "Need to set a username or email",
+            "oldPasswordFormat": "old password format",
+            "passwordMayNotBeEmpty": "Password may not be empty",
+            "signupsForbidden": "Signups forbidden",
+            "tokenExpired": "Token expired",
+            "tokenHasInvalidEmailAddress": "Token has invalid email address",
+            "userHasNoPasswordSet": "User has no password set",
+            "userNotFound": "User not found",
+            "verifyEmailLinkExpired": "Verify email link expired",
+            "verifyEmailLinkIsForUnknownAddress": "Verify email link is for unknown address",
+            "verifyTimeout": "Verification timed out. Probably you've already been verified successfully.",
+            "verifyEmailAddressNotFound": "Couldn't verify email address.",
+            "matchFailed": "Match failed",
+            "unknownError": "Unknown error"
+          }
+        },
+        "loginServices": {
+          "appId": "App ID",
+          "secret": "Secret",
+          "clientId": "Client ID",
+          "consumerKey": "API key"
+        },
+        "error": {
+          "nameRequired": "Name is required.",
+          "isRequired": "{{field}} is required.",
+          "mustBeNumber": "{{field}} must be a number.",
+          "variantFieldIsRequired": "Variant {{number}} {{field}} is required."
+        },
+        "productGrid": {
+          "noProductsFound": "No products found"
+        },
+        "templateGrid": {
+          "noTemplatesFound": "No templates found",
+          "columns": {
+            "title": "Title",
+            "type": "Type",
+            "language": "Language"
+          }
+        },
+        "templateUpdateForm": {
+          "emailTemplates": {
+            "updateEmailTemplate": "Update email template"
+          },
+          "reactTemplates": {
+            "updateReactTemplate": "Update React template",
+            "updateUnavailable": "React templates cannot be edited through this interface"
+          },
+          "alerts": {
+            "templateUpdated": "Template succesfully updated",
+            "failedToUpdate": "Failed to update template: {{err}}"
+          }
+        },
+        "reactionUI": {
+          "components": {
+            "navbar": "Navigation Bar",
+            "button": "Button",
+            "mediaUploader": {
+              "dropFiles": "Drag image or click to upload"
+            },
+            "sortableTable": {
+              "filterPlaceholder": "Filter Data",
+              "tableText": {
+                "noDataMessage": "No results found",
+                "previousText": "Previous",
+                "nextText": "Next",
+                "loadingText": "Loading...",
+                "noDataText": "No results found",
+                "pageText": "Page",
+                "ofText": "of",
+                "rowsText": "rows"
+              }
+            },
+            "mediaGallery": {
+              "deleteImage": "Click to remove image",
+              "addedImage": "This is a new image. Publish to save changes.",
+              "removedImage": "Image has been deleted. Publish to save changes."
+            }
+          }
+        }
+      }
+    }
+  }
+]
